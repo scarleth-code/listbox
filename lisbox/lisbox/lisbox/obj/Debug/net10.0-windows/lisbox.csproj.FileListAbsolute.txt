@@ -1,0 +1,16 @@
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\bin\Debug\net10.0-windows\lisbox.exe
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\bin\Debug\net10.0-windows\lisbox.deps.json
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\bin\Debug\net10.0-windows\lisbox.runtimeconfig.json
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\bin\Debug\net10.0-windows\lisbox.dll
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\bin\Debug\net10.0-windows\lisbox.pdb
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\lisbox.Form1.resources
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\lisbox.csproj.GenerateResource.cache
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\lisbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\lisbox.AssemblyInfoInputs.cache
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\lisbox.AssemblyInfo.cs
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\lisbox.csproj.CoreCompileInputs.cache
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\lisbox.dll
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\refint\lisbox.dll
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\lisbox.pdb
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\lisbox.genruntimeconfig.cache
+D:\Itec\I Parcial\Programacion\lisbox\lisbox\lisbox\obj\Debug\net10.0-windows\ref\lisbox.dll
